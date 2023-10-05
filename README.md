@@ -6,3 +6,4 @@
 # deadline and lauched_at timestamps were converted using the functions provided at the following wedbite: (2023). How to convert between date and Unix timestamp in Excel? ExtendOffice. URL https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html#a3
 # Crowding funding goal analysis help from AskBCS learning assistant named Tristan. And also from teaching assistant Jared Perez.
 # Bell curve charts were based of a online tutorial: Teacher's Tech.(2022, Nov. 21). How to Create a Bell Curve In Microsoft Excel. [Video file]. URL https://www.youtube.com/watch?v=K1xQK6pkGGg
+# references for the Crowdfunding Report Microsoft Word Doc in the final page of report
